@@ -1,7 +1,3 @@
-For this topology, I would name the project **`Basic Inter-Network Communication Using a Router`**. It clearly describes what the lab demonstrates: two separate IP networks communicating through a router.
-
-Below is a README you can directly copy into GitHub.
-
 ````markdown
 # Basic Inter-Network Communication Using a Router
 
